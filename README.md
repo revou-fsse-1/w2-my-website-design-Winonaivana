@@ -12,6 +12,10 @@
 
 [https://www.freepik.com/](https://www.freepik.com/)
 
+[https://www.bershka.com/es/h-woman.html](https://www.bershka.com/es/h-woman.html)
+
+[https://www.bershka.com/es/h-woman.html](https://www.bershka.com/es/h-woman.html)
+
 ## Screenshots
 
 Miro (Wireframe)
