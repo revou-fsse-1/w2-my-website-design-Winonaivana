@@ -11,3 +11,13 @@
 [https://colorhunt.co/](https://colorhunt.co/)
 
 [https://www.freepik.com/](https://www.freepik.com/)
+
+## Screenshots
+
+Miro (Wireframe)
+
+![alt text](miro.png)
+
+Figma (Mockup and Prototyping)
+
+![alt text](figma.png)
