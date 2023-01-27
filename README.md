@@ -20,6 +20,14 @@ A clothing line website.
 
 [https://www.bershka.com/es/h-woman.html](https://www.bershka.com/es/h-woman.html)
 
+## Color Codes
+
+#1B2F26
+#C17D4C
+#D7CEC5
+#9CAD8C
+#FFFFFF
+
 ## Screenshots
 
 Miro (Wireframe)
